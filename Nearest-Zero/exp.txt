@@ -1,0 +1,4 @@
+simultaneous BFS - Just insert multiple begnning points rest everythong remains the same.
+App1- BFS of all points
+App2- BFS from all zeroes
+Opt.- simultaneous BFS

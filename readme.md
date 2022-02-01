@@ -5,3 +5,5 @@
 - [https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem](https://www.hackerrank.com/challenges/ctci-bfs-shortest-reach/problem)
 #### Knight Walk
 - [https://practice.geeksforgeeks.org/problems/knight-walk4521/1](https://practice.geeksforgeeks.org/problems/knight-walk4521/1)
+#### Nearest Zero
+- [https://leetcode.com/problems/01-matrix/](https://leetcode.com/problems/01-matrix/)
