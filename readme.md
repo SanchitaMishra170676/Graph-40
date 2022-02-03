@@ -15,3 +15,5 @@
 - [https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)
 #### Connected Components 
 - [https://www.hackerearth.com/problem/algorithm/connected-components-in-a-graph/](https://www.hackerearth.com/problem/algorithm/connected-components-in-a-graph/)
+#### Number Of Islands
+- [https://leetcode.com/problems/number-of-islands/](https://leetcode.com/problems/number-of-islands/)
