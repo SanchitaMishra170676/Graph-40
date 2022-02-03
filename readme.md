@@ -11,3 +11,5 @@
 - [https://leetcode.com/problems/rotting-oranges/](https://leetcode.com/problems/rotting-oranges/)
 #### Word Ladder
 - [https://leetcode.com/problems/word-ladder/](https://leetcode.com/problems/word-ladder/)
+### DFS
+- [https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)
