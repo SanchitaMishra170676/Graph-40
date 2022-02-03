@@ -1,0 +1,3 @@
+beta implementation ka game hai sara
+app1: Use a map for storing string and positions and connect all the words in O(n2)
+app2: exploit 26 words limit and create every combination and check if it is present or not. 
