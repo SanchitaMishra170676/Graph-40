@@ -13,3 +13,5 @@
 - [https://leetcode.com/problems/word-ladder/](https://leetcode.com/problems/word-ladder/)
 ### DFS
 - [https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1)
+#### Connected Components 
+- [https://www.hackerearth.com/problem/algorithm/connected-components-in-a-graph/](https://www.hackerearth.com/problem/algorithm/connected-components-in-a-graph/)
