@@ -23,5 +23,5 @@
 - [https://leetcode.com/problems/is-graph-bipartite/](https://leetcode.com/problems/is-graph-bipartite/)
 #### Cycle In Undirected Graph
 - [https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1#](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1#)
-#### Cycle in Directed Graph
+#### Cycle In Directed Graph
 - [https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1#](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1#)
