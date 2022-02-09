@@ -27,3 +27,5 @@
 - [https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1#](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1#)
 ### Topological Sort
 - [https://practice.geeksforgeeks.org/problems/topological-sort/1#](https://practice.geeksforgeeks.org/problems/topological-sort/1#)
+#### Course Schedule
+- [https://leetcode.com/problems/course-schedule-ii/](https://leetcode.com/problems/course-schedule-ii/)

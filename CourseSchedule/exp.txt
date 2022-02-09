@@ -1,0 +1,1 @@
+for detecting loop check if size of ans is equal to count of all the nodes.
